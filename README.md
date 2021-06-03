@@ -1,5 +1,5 @@
 # Calender App Using Google Events Api
 
-A new Flutter project.
+Add and See Events
 
 ## Getting Started
